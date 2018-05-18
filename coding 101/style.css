@@ -1,0 +1,26 @@
+body{
+	background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/f1f1188124d5b5b6bf6cf0a48afcde93/121e45ad-608c-4779-b804-a4718427ce62_rw_1920.jpg?h=d64db9e0ec4f09cb382ccc5c55dc97e0);
+}
+img {
+	width: 800px;
+	height: 500px;
+	padding: 30px;
+	margin: 10px;
+	border: 4px solid black ;
+}
+h1,h2{
+	text-align: center;
+	font-style: bold;
+}
+ul {
+	background-color: lightgrey;
+	list-style-type: none;
+	text-align: center;
+}
+li{
+	display: inline-block;
+	font-size: 35px;
+	padding: 30px;
+}
+li:hover{
+	font-weight: bold;	
